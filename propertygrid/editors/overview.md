@@ -36,7 +36,7 @@ There are a number of build-in ediotrs which are used for editing different data
 |PropertyGridBrowseEditor|Used for editing of type image.|
 |PropertyGridColorEditor|Used for editing of type color.|
 |PropertyGridDateTimeEditor|Used for editing of type DateTime.|
-|PropertyGridDropDownListEditor|Used for editing of types that have a type converter supporting standart values and do not have a UITypeEditor.|
+|PropertyGridDropDownListEditor|Used for editing of types that have a type converter supporting standard values and do not have a UITypeEditor.|
 |PropertyGridSpinEditor|Used for editing of numeric data types.|
 |PropertyGridTextBoxEditor|Used for editing all data types that are not covered by other editors.|
 |PropertyGridUITypeEditor|Used for editing data types that have a UITypeEditor and are not covered by other editors.|
